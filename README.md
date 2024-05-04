@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Creator!!
 - 🔭 I'm currently studying at university to become a software engineer
-- 🌱 [I'm currently tutoring online, I like to pass on what I learn](lessons)
+- 🌱 I'm currently [tutoring] online, I like to pass on what I learn
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages ( English, Spanish, Italian )
@@ -45,6 +45,5 @@
 
 </details>
 
-[instagram]: https://www.instagram.com/jhoel.canulli/
 [linkedin]: https://www.linkedin.com/in/jhoelcanulli/
-[lessons]: https://www.letuelezioni.it/insegnanti/jhoel-canulli.htm
+[tutoring]: https://www.letuelezioni.it/insegnanti/jhoel-canulli.htm
