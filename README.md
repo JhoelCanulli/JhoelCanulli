@@ -33,14 +33,14 @@ src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg" />
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JhoelCanulli&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jhoel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JhoelCanulli&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelCanulli" />
+<img align="left" alt="Jhoel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelCanulli" />
 
 </details>
 
