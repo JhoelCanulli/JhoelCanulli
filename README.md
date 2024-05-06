@@ -16,6 +16,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg"><img src="svg/ajax.svg" alt="ajax" width="100px" /></a> [AJAX](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg) 
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/angular.svg"><img src="svg/angular.svg" alt="angular" width="100px" /></a> [Angular](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/angular.svg) 
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
