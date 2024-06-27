@@ -3,8 +3,7 @@
 ## I'm a Student, Full Stack Developer, and Sound Engineer!!
 - 🔭 I'm currently studying at Roma Tre university to become a software engineer
 - 🧑‍💻 I'm currently working in I&M Consulting with Accenture on web applications   
-- 🌱 I'm currently [tutoring] online, I like to pass on what I learn
-- 👯 I’m looking to collaborate on open source
+- 🌱 I sometimes give [tutoring] online, I like to pass on what I learn
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages ( English, Spanish, Italian )
 
