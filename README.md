@@ -1,7 +1,8 @@
 ### Hello World, I'm Jhoel  👋
 
-## I'm a Student, Developer, and Creator!!
-- 🔭 I'm currently studying at university to become a software engineer
+## I'm a Student, Full Stack Developer, and Sound Engineer!!
+- 🔭 I'm currently studying at Roma Tre university to become a software engineer
+- 🧑‍💻 I'm currently working in I&M Consulting with Accenture on web applications   
 - 🌱 I'm currently [tutoring] online, I like to pass on what I learn
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
