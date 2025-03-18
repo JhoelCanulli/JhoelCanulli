@@ -42,11 +42,11 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Bootstrap" width="26" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"  />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/typescript-icon.svg" />
-<img align="left" alt="Ajax" width="26px" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg" />
+<!-- da vedere <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/typescript-icon.svg" /> -->
+<!-- da vedere <img align="left" alt="Ajax" width="26px" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg" /> -->
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="npm" width="26" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/angular.svg" />
+<!-- da vedere <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/angular.svg" /> -->
 <img align="left" alt="Unity" width="26" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" />
 <img align="left" alt="Godot" width="26" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" />
 
