@@ -53,7 +53,6 @@
 <br />
 <br />
 <br />
-<!-- integra quando lavorerai di più su github
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -67,7 +66,6 @@
 <img align="left" alt="Jhoel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelCanulli" />
 
 </details>
--->
 
 [linkedin]: https://www.linkedin.com/in/jhoelcanulli/
 [tutoring]: https://www.letuelezioni.it/insegnanti/jhoel-canulli.htm
