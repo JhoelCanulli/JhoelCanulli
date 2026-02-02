@@ -56,16 +56,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jhoel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JhoelCanulli&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jhoel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JhoelCanulli&show_icons=true&hide_border=true" include_all_commits=false/>
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Jhoel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelCanulli" />
+<img align="left" alt="Jhoel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoelCanulli" include_all_commits=false/>
 
 </details>
-
 [linkedin]: https://www.linkedin.com/in/jhoelcanulli/
 [tutoring]: https://www.letuelezioni.it/insegnanti/jhoel-canulli.htm
